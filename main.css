@@ -1,0 +1,84 @@
+body {
+    background-color: chartreuse;
+    text-align: center;
+    font-family: monospace;
+    padding-right: 50px;
+    margin-left: 28px;
+    width: 80%;
+    float: left;
+    margin-right: auto;
+}
+
+.boxed {
+ display: inline;   
+}
+
+#currentPage {
+    align-content: space-around;
+}
+
+#quote1 {
+    color: currentColor;
+    margin-top: 1em;
+    text-align: right;
+}
+
+#quote2 {
+    color: 
+    text-align: center;
+    margin-top: 1em;
+    padding-right: 20em;
+}
+
+#quote3 {
+    text-align: center;
+    margin-top: 5em;
+}
+
+#quote4 {
+    text-align: center;
+    margin-bottom: auto;
+    padding-left: 20em;
+}
+
+.align {
+    display: inline;            
+}
+
+
+.next-page {
+    color: black;
+    position: absolute;
+    margin-top: 10em;
+    padding-bottom: 2em;
+    margin-left: 20em;
+    width: 100%
+    text-align: center;
+}
+
+.previous-page {
+    color: black;
+    position: absolute;
+    margin-top: 20em;
+    padding-bottom: 7em;
+    margin-left: 50em;
+    width: 10%;
+    text-align: center;
+    display: inline-flex;
+}
+
+.page2img {
+    position: static;
+}
+
+.page-turn {
+    margin-top: 20em;
+    
+}
+
+.jsbutton {
+    text-align: inherit;
+    float: right;
+    margin-bottom: auto;
+    padding-left: 20em;
+}
